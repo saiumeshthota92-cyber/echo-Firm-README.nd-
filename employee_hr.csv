@@ -1,0 +1,201 @@
+EmployeeID,Age,Department,JobRole,ExperienceYears,MonthlySalaryINR,PerformanceScore,Attrition
+EMP001,27,IT,Specialist,1,66846,4.7,No
+EMP002,60,Sales,Analyst,16,36566,4.6,No
+EMP003,36,Marketing,Analyst,28,60127,1.7,No
+EMP004,35,IT,Team Lead,34,132586,2.3,No
+EMP005,35,HR,Analyst,9,146723,3.4,No
+EMP006,46,Operations,Analyst,23,151041,3.9,No
+EMP007,47,Sales,Associate,6,50136,2.8,No
+EMP008,39,Operations,Associate,4,104128,1.6,No
+EMP009,23,Sales,Engineer,12,39447,1.4,No
+EMP010,60,Operations,Manager,31,118871,5.0,No
+EMP011,29,Sales,Specialist,24,77053,2.8,No
+EMP012,24,IT,Manager,17,119330,4.5,No
+EMP013,44,Operations,Manager,10,115288,2.9,No
+EMP014,37,Finance,Analyst,5,158979,4.7,No
+EMP015,45,IT,Manager,9,87387,1.4,Yes
+EMP016,56,Finance,Specialist,5,66498,1.5,No
+EMP017,24,Finance,Associate,6,92799,4.7,No
+EMP018,32,IT,Team Lead,24,41125,4.8,Yes
+EMP019,41,Marketing,Analyst,4,33870,2.3,No
+EMP020,52,HR,Analyst,1,91722,2.4,Yes
+EMP021,45,HR,Associate,19,135208,2.8,No
+EMP022,36,Finance,Engineer,10,93722,2.7,No
+EMP023,45,Operations,Associate,16,129033,1.8,Yes
+EMP024,60,Operations,Team Lead,5,43263,4.6,No
+EMP025,40,Operations,Manager,7,81813,2.0,No
+EMP026,56,HR,Associate,15,105062,3.8,Yes
+EMP027,52,Marketing,Specialist,24,67370,1.3,No
+EMP028,33,Operations,Analyst,14,20005,1.2,No
+EMP029,30,Finance,Team Lead,19,28429,3.6,No
+EMP030,51,Sales,Engineer,18,149729,2.4,No
+EMP031,29,IT,Specialist,9,103930,3.6,No
+EMP032,34,Operations,Associate,10,55569,1.4,No
+EMP033,30,Marketing,Analyst,15,54752,4.8,No
+EMP034,45,Finance,Specialist,1,23617,4.0,No
+EMP035,32,Sales,Engineer,24,152159,4.5,No
+EMP036,47,Finance,Associate,22,33371,1.5,No
+EMP037,58,IT,Team Lead,11,125843,2.3,No
+EMP038,54,Sales,Team Lead,13,52115,2.5,No
+EMP039,58,Operations,Team Lead,11,65659,3.1,No
+EMP040,21,Marketing,Manager,23,56894,2.2,No
+EMP041,39,Marketing,Associate,27,135082,1.2,Yes
+EMP042,29,Finance,Engineer,3,22659,2.5,No
+EMP043,57,Marketing,Team Lead,14,68025,2.0,No
+EMP044,49,Sales,Manager,0,57668,2.5,No
+EMP045,33,Sales,Specialist,16,56759,1.8,No
+EMP046,43,Sales,Manager,8,45397,2.0,Yes
+EMP047,45,Marketing,Specialist,12,147568,3.5,No
+EMP048,40,Operations,Engineer,16,71764,2.6,No
+EMP049,39,IT,Specialist,11,77385,2.4,No
+EMP050,23,IT,Analyst,14,72694,3.1,No
+EMP051,39,Finance,Analyst,27,157191,4.1,No
+EMP052,34,Sales,Manager,29,66139,2.5,No
+EMP053,53,Operations,Manager,0,66519,3.4,No
+EMP054,55,Finance,Specialist,13,64565,4.9,No
+EMP055,51,Sales,Manager,30,64429,3.1,No
+EMP056,22,Marketing,Analyst,19,30741,4.6,No
+EMP057,54,Finance,Engineer,7,103807,4.2,Yes
+EMP058,36,Finance,Manager,21,21579,1.2,No
+EMP059,37,Sales,Associate,5,50085,2.7,No
+EMP060,58,Finance,Associate,0,46700,3.8,No
+EMP061,55,Marketing,Engineer,22,59391,4.9,No
+EMP062,23,Marketing,Associate,18,125444,2.8,Yes
+EMP063,35,Sales,Associate,27,103129,1.4,No
+EMP064,50,Finance,Specialist,12,158695,3.2,No
+EMP065,42,Sales,Associate,30,67870,1.5,No
+EMP066,31,HR,Specialist,15,149851,4.0,No
+EMP067,41,Finance,Engineer,26,24377,3.0,No
+EMP068,55,HR,Specialist,3,89599,3.9,No
+EMP069,29,IT,Analyst,3,131437,4.5,No
+EMP070,50,IT,Analyst,28,93519,3.5,No
+EMP071,50,Sales,Team Lead,30,150530,3.4,No
+EMP072,56,IT,Manager,33,62670,4.0,No
+EMP073,32,Sales,Associate,11,22733,4.4,No
+EMP074,29,Finance,Associate,0,127900,4.5,No
+EMP075,42,Finance,Specialist,35,27656,1.1,Yes
+EMP076,42,Operations,Engineer,21,126596,3.2,Yes
+EMP077,37,Sales,Engineer,8,122145,1.9,No
+EMP078,52,Operations,Analyst,27,137887,4.4,No
+EMP079,52,Operations,Team Lead,32,86007,3.6,No
+EMP080,30,IT,Engineer,10,145162,2.7,No
+EMP081,52,HR,Associate,27,42116,1.8,No
+EMP082,30,Sales,Manager,28,79678,2.4,Yes
+EMP083,37,Marketing,Analyst,18,35300,3.8,No
+EMP084,22,IT,Manager,22,126897,1.8,No
+EMP085,34,IT,Analyst,9,119427,1.4,No
+EMP086,59,Marketing,Engineer,33,132509,4.6,No
+EMP087,38,Marketing,Analyst,35,126537,4.1,No
+EMP088,49,HR,Specialist,35,61801,1.8,Yes
+EMP089,25,Finance,Associate,26,27665,2.2,No
+EMP090,46,Sales,Team Lead,1,149953,4.9,No
+EMP091,35,HR,Manager,13,87980,3.8,No
+EMP092,50,HR,Engineer,16,31396,3.4,Yes
+EMP093,58,Finance,Associate,34,149644,2.2,No
+EMP094,42,Sales,Team Lead,19,159187,2.2,No
+EMP095,25,HR,Associate,19,81261,1.2,No
+EMP096,40,Finance,Analyst,5,127353,3.9,No
+EMP097,25,HR,Engineer,28,23154,1.2,No
+EMP098,38,Operations,Team Lead,12,31244,1.0,No
+EMP099,23,IT,Associate,3,57272,3.9,No
+EMP100,46,HR,Team Lead,35,111185,4.8,Yes
+EMP101,33,HR,Associate,6,36946,4.0,No
+EMP102,29,Marketing,Analyst,0,22853,2.9,No
+EMP103,21,Marketing,Team Lead,2,112966,2.9,No
+EMP104,56,Sales,Specialist,16,127367,2.7,No
+EMP105,54,IT,Specialist,3,122968,2.3,Yes
+EMP106,53,Operations,Team Lead,30,131490,3.1,No
+EMP107,23,Finance,Engineer,18,132005,2.7,No
+EMP108,34,Marketing,Team Lead,11,103542,3.4,No
+EMP109,59,Finance,Engineer,0,91757,4.6,No
+EMP110,44,Marketing,Team Lead,17,139675,5.0,No
+EMP111,26,Operations,Engineer,5,67420,1.3,No
+EMP112,26,HR,Associate,35,31899,2.5,Yes
+EMP113,31,Operations,Specialist,10,124779,1.7,Yes
+EMP114,59,HR,Analyst,17,57181,2.4,No
+EMP115,27,Finance,Analyst,0,156998,2.1,No
+EMP116,57,HR,Team Lead,4,76813,1.7,Yes
+EMP117,48,Operations,Analyst,7,138955,4.1,No
+EMP118,57,HR,Associate,1,24029,3.0,No
+EMP119,54,Sales,Team Lead,26,111611,4.7,No
+EMP120,34,Sales,Associate,34,81647,1.1,Yes
+EMP121,54,Operations,Manager,35,83689,1.3,No
+EMP122,27,Marketing,Manager,9,55660,2.6,No
+EMP123,32,IT,Associate,28,155910,1.3,No
+EMP124,29,Marketing,Associate,18,73768,2.1,No
+EMP125,26,IT,Associate,1,138768,4.9,Yes
+EMP126,24,Sales,Analyst,3,78364,1.8,No
+EMP127,28,Finance,Associate,19,24855,1.8,No
+EMP128,25,Sales,Specialist,15,142877,3.3,No
+EMP129,36,Operations,Specialist,0,44285,3.0,No
+EMP130,23,Marketing,Analyst,33,56388,3.3,No
+EMP131,23,Finance,Specialist,26,140278,2.5,No
+EMP132,60,Marketing,Specialist,18,144912,4.3,No
+EMP133,24,HR,Engineer,35,148180,1.6,Yes
+EMP134,23,HR,Team Lead,34,78488,2.7,No
+EMP135,22,Finance,Associate,35,125490,3.8,No
+EMP136,26,Sales,Manager,9,64549,4.5,No
+EMP137,42,Operations,Specialist,31,123136,2.5,No
+EMP138,54,Operations,Associate,18,89357,3.3,Yes
+EMP139,50,HR,Associate,26,25378,1.3,No
+EMP140,44,HR,Engineer,30,77319,1.7,No
+EMP141,24,Marketing,Team Lead,5,84417,1.3,No
+EMP142,51,Finance,Team Lead,16,54547,3.9,No
+EMP143,22,HR,Analyst,4,71175,2.2,No
+EMP144,46,Marketing,Specialist,10,89380,3.9,No
+EMP145,37,Finance,Analyst,14,25057,1.3,No
+EMP146,56,Marketing,Manager,30,39555,4.5,No
+EMP147,33,Marketing,Team Lead,31,126883,4.3,Yes
+EMP148,46,Marketing,Engineer,14,67974,1.4,No
+EMP149,38,Sales,Manager,11,104391,1.1,No
+EMP150,41,Operations,Engineer,19,98342,1.2,No
+EMP151,58,Marketing,Specialist,32,96273,4.4,No
+EMP152,49,HR,Manager,35,76704,1.9,No
+EMP153,37,IT,Associate,8,86631,3.2,No
+EMP154,38,HR,Team Lead,6,134996,2.7,No
+EMP155,49,Sales,Associate,25,155038,4.2,No
+EMP156,34,Sales,Specialist,10,54454,3.0,Yes
+EMP157,27,IT,Analyst,7,113066,3.0,No
+EMP158,39,Sales,Engineer,1,155708,5.0,No
+EMP159,23,HR,Team Lead,14,19076,1.6,Yes
+EMP160,27,Sales,Team Lead,14,129431,4.3,No
+EMP161,37,Sales,Associate,20,88549,1.2,No
+EMP162,52,Sales,Manager,7,155399,2.9,No
+EMP163,52,Finance,Engineer,25,100114,4.5,No
+EMP164,31,Finance,Team Lead,24,137016,3.7,No
+EMP165,37,Operations,Specialist,16,41574,3.7,No
+EMP166,27,Operations,Engineer,6,38178,2.1,Yes
+EMP167,51,Operations,Associate,18,149575,2.7,Yes
+EMP168,30,Finance,Associate,24,92757,2.5,No
+EMP169,52,Finance,Manager,13,97285,3.1,No
+EMP170,54,HR,Team Lead,9,42137,2.8,Yes
+EMP171,48,Sales,Analyst,18,50195,2.3,No
+EMP172,34,IT,Engineer,12,134189,2.2,No
+EMP173,59,Finance,Analyst,14,61073,2.0,No
+EMP174,48,HR,Specialist,12,100951,2.5,No
+EMP175,46,Sales,Associate,10,62948,1.6,No
+EMP176,55,Marketing,Team Lead,25,55410,4.5,No
+EMP177,56,Marketing,Associate,16,41575,3.4,No
+EMP178,24,Finance,Analyst,16,150003,1.5,Yes
+EMP179,56,IT,Manager,23,151489,3.8,No
+EMP180,51,HR,Analyst,13,34356,4.4,Yes
+EMP181,29,IT,Specialist,3,68161,2.0,No
+EMP182,33,Operations,Specialist,30,98069,1.6,Yes
+EMP183,51,Marketing,Team Lead,2,72427,1.0,No
+EMP184,29,Sales,Manager,20,120388,1.2,Yes
+EMP185,39,HR,Engineer,9,54952,4.0,No
+EMP186,48,IT,Analyst,7,26356,4.9,No
+EMP187,47,Marketing,Manager,1,65845,1.2,Yes
+EMP188,57,HR,Manager,32,102896,4.0,No
+EMP189,25,IT,Specialist,15,43650,1.3,No
+EMP190,32,HR,Specialist,12,133858,3.4,No
+EMP191,60,HR,Analyst,26,19739,4.0,No
+EMP192,43,Sales,Engineer,1,27588,2.4,No
+EMP193,30,Marketing,Associate,20,90255,1.0,Yes
+EMP194,32,HR,Manager,17,90739,3.4,No
+EMP195,34,Operations,Analyst,19,59873,5.0,No
+EMP196,43,IT,Team Lead,4,54715,2.0,Yes
+EMP197,32,IT,Specialist,34,27913,1.8,No
+EMP198,45,IT,Associate,8,112135,1.5,No
+EMP199,38,Marketing,Engineer,24,71822,3.2,No
+EMP200,45,Sales,Team Lead,26,34852,3.4,No
